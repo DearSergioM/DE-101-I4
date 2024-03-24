@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "DavidAnson.vscode-markdownlint",
+    "dvirtz.parquet-viewer",
+    "ms-azuretools.vscode-docker",
+    "usernamehw.errorlens",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "mechatroner.rainbow-csv"
+  ]
+}

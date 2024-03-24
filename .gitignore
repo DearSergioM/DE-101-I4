@@ -1,0 +1,13 @@
+# MACOS files
+.DS_Store
+
+# python files
+*__pycache__
+*myenv
+
+# Sessions practice files
+Practices/**/logs
+Practices/**/plugins
+Practices/**/dags/output/*
+Practices/**/generated_data
+Practices/**/create_views.sql
